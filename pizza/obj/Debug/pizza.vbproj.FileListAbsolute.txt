@@ -1,0 +1,13 @@
+C:\Users\100615025\Desktop\pizza\pizza\bin\Debug\pizza.exe.config
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.vbprojResolveAssemblyReference.cache
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.Resources.resources
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.vbproj.GenerateResource.Cache
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.xml
+C:\Users\100615025\Desktop\pizza\pizza\bin\Debug\pizza.exe
+C:\Users\100615025\Desktop\pizza\pizza\bin\Debug\pizza.pdb
+C:\Users\100615025\Desktop\pizza\pizza\bin\Debug\pizza.xml
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.Form1.resources
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.exe
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.pdb
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.Captured.resources
+C:\Users\100615025\Desktop\pizza\pizza\obj\Debug\pizza.characterSelection.resources
